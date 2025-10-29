@@ -274,3 +274,10 @@ footer p {
         padding: 1rem;
     }
 }
+.favorites-count {
+    text-align: center;
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+    font-style: italic;
+} 
