@@ -7,10 +7,10 @@ Track and manage your favorite local places (coffee shops, restaurants, parks, s
 - [x] HTML structure complete (LAB11)
 - [x] CSS styling complete (LAB11.5)
 - [x] JavaScript starter code (LAB11.5)
-- [ ] JavaScript fundamentals (LAB12)
-- [ ] Add favorites functionality (LAB13-14)
-- [ ] Search/filter features (LAB14-15)
-- [ ] localStorage persistence (LAB15)
+- [x] JavaScript fundamentals (LAB12)
+- [x] Add favorites functionality (LAB13-14)
+- [x] Search/filter features (LAB14-15)
+- [x] localStorage persistence (LAB15)
 
 ## Technologies Used
 
@@ -37,7 +37,3 @@ Track and manage your favorite local places (coffee shops, restaurants, parks, s
 [Annabel Thompson]
 WRIT 40363 - Fall 2025
 Texas Christian University
-
-## Next Steps
-
-LAB12: Add JavaScript variables and basic interactivity
